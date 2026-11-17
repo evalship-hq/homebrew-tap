@@ -2,8 +2,8 @@
 class Tinyeval < Formula
   desc "Evals for AI features, in one bash file"
   homepage "https://tinyeval.com"
-  url "https://github.com/evalship-hq/tinyeval/archive/refs/tags/v0.11.1.tar.gz"
-  sha256 "4764bc8209ea6e846b34d99f0ab694c75850440e2c535c6d5ade92df02a82fa5"
+  url "https://github.com/evalship-hq/tinyeval/archive/refs/tags/v0.12.0.tar.gz"
+  sha256 "269007a6c9553a99bf2df28064e4feb3ea7e251a9be7a5174ef3584a7c2495af"
   license "MIT"
 
   def install
